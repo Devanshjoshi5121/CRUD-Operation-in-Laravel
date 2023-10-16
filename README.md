@@ -1,5 +1,8 @@
 # CRUD-Operation-in-Laravel
 CRUD Operation is performed in laravel(PHP) and is an easy method
+
+YOU WOULD GET A RAW FILE AS THe ZIP CONTAINS MORE THAN 100 FILES SO YOU CAN DOWNLOAD THE RAW FILE.
+
 Save the file path at C:\xampp\htdocs
 Start the xampp or Wamp server with its Apache and MySQL.
 Set the database name in your .env file and then run php artisan migrate.
